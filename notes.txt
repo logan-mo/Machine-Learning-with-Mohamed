@@ -1,0 +1,10 @@
+How to find weights and biases in linear regression:
+1) Method 1: Statistical route.
+2) Method 2: Learning Method
+
+1) Look at the data, and make a prediction 
+2) Tell the model how wrong it is. (Loss function) e.g Eucledian Distance, Manhattan distance, Cosine Deviation
+3) A way to tell the model how to improve. (Optimization function, Learning) Grading Descent, Adam, AdaFactor
+4) Step 1 until we run out of training steps, or cannot optimize further.
+
+5) Evaluation
